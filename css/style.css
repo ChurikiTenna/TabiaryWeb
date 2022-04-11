@@ -52,7 +52,7 @@ a:active, a:focus,input:active, input:focus{outline:0;}
 	position: relative;
   overflow: hidden;
   width: 100%;
-  height: 528px;
+  height: 640px;
 }
 
 #mainImg img{
@@ -60,7 +60,7 @@ a:active, a:focus,input:active, input:focus{outline:0;}
   left: 50%;
 	max-width: 1280px;
   width: 1280px;
-  height: 528px;
+  height: 640px;
   margin-left: -640px;
 }
 
