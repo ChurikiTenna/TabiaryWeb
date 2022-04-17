@@ -1,3 +1,0 @@
-# TabiaryWeb
-
-http://tabiary.com/
